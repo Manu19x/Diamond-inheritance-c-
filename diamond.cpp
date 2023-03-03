@@ -1,6 +1,4 @@
-/* Matea Marian - 263
-C-LION
-Comanescu Octavian*/
+
 
 #include <bits/stdc++.h>
 #include <iostream>
