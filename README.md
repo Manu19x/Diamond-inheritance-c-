@@ -1,4 +1,4 @@
-# Diamond-inheritance-c ++
+# Multiple inheritance-c ++
 
 This is a C++ program that defines a set of classes related to snow removal tools and drones, and provides their functionality.
 
